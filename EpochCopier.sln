@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochCopier.Logic", "EpochCopier.Logic.csproj", "{34DFB292-07BB-4746-B09E-67DF5B3D85BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochCopier.Logic", "EpochCopier.Logic\EpochCopier.Logic.csproj", "{34DFB292-07BB-4746-B09E-67DF5B3D85BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochCopier", "..\EpochCopier\EpochCopier.csproj", "{E29A4519-9D52-49FA-A47C-37B4466E56E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochCopier", "EpochCopier\EpochCopier.csproj", "{E29A4519-9D52-49FA-A47C-37B4466E56E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
