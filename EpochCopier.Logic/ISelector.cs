@@ -7,6 +7,6 @@ namespace EpochCopier.Logic
 {
     public interface ISelector
     {
-        bool IsOK(Job job, FileData data);
+        bool IsOk(Job job, FileData data);
     }
 }
